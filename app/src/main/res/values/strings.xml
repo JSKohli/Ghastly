@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ghastly</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MainActivityTitle">Spine Chilling Horror Movies</string>
+    <string name="title_activity_item1">The Last Exorcism</string>
+    <string name="title_activity_item2">Sinister</string>
+    <string name="title_activity_item3">Dead Silence</string>
+    <string name="title_activity_item4">Oculus</string>
+    <string name="title_activity_item5">The Blair Witch Project</string>
+    <string name="title_activity_item6">The Babadook</string>
+    <string name="title_activity_item7">The Conjuring</string>
+    <string name="title_activity_item8">Insidious</string>
+</resources>
